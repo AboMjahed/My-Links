@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Links</title>
+</head>
+<body>
+    <h1>My Links</h1>
+    <ul>
+        <li><a href="https://www.facebook.com/profile.php?id=61561478946033">Facebook Profile</a></li>
+        <li><a href="https://www.tiktok.com/@restaurantphonix?is_from_webapp=1&sender_device=pc">TikTok Profile</a></li>
+        <li><a href="https://www.instagram.com/restaurantphoenix24?igsh=M2FlNTk2enpwdjNj">Instagram Profile</a></li>
+    </ul>
+</body>
+</html>
